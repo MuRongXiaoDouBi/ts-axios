@@ -124,5 +124,10 @@
     "tslint-loader": "^3.5.4",
     "express": "^4.16.4",
     "body-parser": "^1.18.3"
+  },
+  "dependencies": {
+    "atob": "^2.1.2",
+    "connect-multiparty": "^2.2.0",
+    "cookie-parser": "^1.4.4"
   }
 }
